@@ -1,0 +1,17 @@
+{
+  "name": "basic-trpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zono <2742160682@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@trpc/client": "^11.0.0-rc.528",
+    "@trpc/server": "^11.0.0-rc.528"
+  }
+}
